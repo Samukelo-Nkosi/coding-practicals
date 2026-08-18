@@ -23,9 +23,9 @@ public class Patterns {
 
         Scanner input = new Scanner(System.in);
 
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 8; i++) { // modified this program to print 8 rows
 
-            for (int j = 1; j <= i; j++) {
+            for (int j = 1; j <= i; j++) {  // columns
                 System.out.print("* ");
             }
 
