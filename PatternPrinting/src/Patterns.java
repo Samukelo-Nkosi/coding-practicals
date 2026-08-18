@@ -17,22 +17,19 @@
 
 import java.util.Scanner;
 
+
 public class Patterns {
-    public static void main(){
+    public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Enter number of asterisk rows: ");
-        int n = input.nextLine();
+        for (int i = 1; i <= 5; i++) {
 
-        int num = 1;
-
-        for(char i = 1; i <= n; i++){         // rows
-            for(char k = 1; k <= n; k++){     // columns
-                System.out.print(num + "");
-                num ++;
+            for (int j = 1; j <= i; j++) {
+                System.out.print("* ");
             }
-            System.out.print();
+
+            System.out.println();
         }
     }
 }
