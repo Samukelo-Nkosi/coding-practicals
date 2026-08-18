@@ -1,5 +1,5 @@
 /**
- * Activity 2: Pattern Printing
+ * Activity 2: Pattern Printing(Floyd's Triangle)
  *
  * Task:
  * Create a Java program that uses nested for loops to print the following pattern:
@@ -22,6 +22,17 @@ public class Patterns {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.print("Enter number of asterisk rows: ");
+        int n = input.nextLine();
 
+        int num = 1;
+
+        for(char i = 1; i <= n; i++){         // rows
+            for(char k = 1; k <= n; k++){     // columns
+                System.out.print(num + "");
+                num ++;
+            }
+            System.out.print();
+        }
     }
 }
