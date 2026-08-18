@@ -1,23 +1,30 @@
 # Coding-Practicals
 
-A collection of **Java practical programs and exercises** completed as part of my ICT/Application Development coursework. The repository contains small programs covering object-oriented programming, GUI development, validation, calculations, and practical problem-solving.
+A collection of programming practicals, exercises, and coursework projects developed to strengthen my programming fundamentals and problem-solving skills. The repository contains practical implementations covering concepts such as variables, data types, input/output, operators, conditional statements, loops, methods, classes, object-oriented programming, and basic algorithms.
 
-## Programs Included
+Purpose
 
-| # | Program | Description |
-|---|---|---|
-| 1 | `ApplicationDevelopment2A` | Java practical work and exercises for Application Development. |
-| 2 | `FractionClass` | A Java class for working with fractions and performing fraction-related operations. |
-| 3 | `IDValidator` | A Java program for validating South African ID numbers and checking whether entered ID information is valid. |
-| 4 | `InClassPracticalPrograms` | Collection of Java programs completed during in-class practical sessions. |
-| 5 | `JOptionPane1` | Java GUI exercises using `JOptionPane` for user input and displaying messages. |
-| 6 | `QuadraticEquation` | Program for solving quadratic equations using Java. |
-| 7 | `RestaurantPayroll` | Payroll-related Java practical based on restaurant employees and salary calculations. |
-| 8 | `RestaurantWaiterPayroll` | Java program focused on calculating waiter payroll and related earnings. |
-| 9 | `SimpleCalculator` | Basic calculator application demonstrating arithmetic operations and user input. |
-| 10 | `SK` | Personal Java practical/project work. |
-| 11 | `SoccerGameProject1` | Java project based on a soccer game/application scenario. |
-| 12 | `UMPSecondSemesterCalculator` | Calculator application developed for second-semester academic calculations. |
+This repository serves as a practical learning portfolio and a record of my progress while developing programming skills through hands-on coding exercises.
+
+## Includes
+
+>Programming exercises and practical assignments.
+
+>Beginner-to-intermediate coding challenges.
+
+>Object-oriented programming examples.
+
+>Control structures and loops.
+
+>User-input and output programs.
+
+>Basic problem-solving and algorithm implementations.
+
+>University coursework and coding practice.
+
+>This repository is continuously updated as I learn new programming concepts and complete additional practicals.
+
+
 
 ## Technologies Used
 
@@ -87,7 +94,7 @@ This repository serves as a practical record of my progress in **Java programmin
 
 The projects are primarily intended for **learning, experimentation, revision, and academic development**.
 
-## 👨🏽‍💻 Author
+## Author
 
 **Samukelo Nkosi**
 
