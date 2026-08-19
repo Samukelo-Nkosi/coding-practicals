@@ -2,7 +2,7 @@
 
 A collection of programming practicals, exercises, and coursework projects developed to strengthen my programming fundamentals and problem-solving skills. The repository contains practical implementations covering concepts such as variables, data types, input/output, operators, conditional statements, loops, methods, classes, object-oriented programming, and basic algorithms.
 
-Purpose
+>## Purpose
 
 This repository serves as a practical learning portfolio and a record of my progress while developing programming skills through hands-on coding exercises.
 
